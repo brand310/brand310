@@ -1,11 +1,6 @@
 
-<h1 id="hello1"> Hey, I'm Brandon </h1>
+<h1> Hey, I'm Brandon</h1>
 
-<style>
-  #hello1 {
-    color = #6495ED;
-  }
-</style>
 
 - 👀 I’m interested in: Music, Playing Music, Soccer, Cats and Art 
 
