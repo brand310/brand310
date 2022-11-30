@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in: Music, Playing Music, Soccer, Cats and Art 
 
-- 🌱 I’m currently learning: HTML, CSS, and javaScript
+- 🌱 I’m currently learning: React, Python and Typescript
 
 - 📫 How to reach me: brandonsandoval0@gmail.com
 
